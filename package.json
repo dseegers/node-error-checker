@@ -1,0 +1,10 @@
+{
+  "name": "linkchecker",
+  "version": "1.0.0",
+  "description": "Checker on 505",
+  "main": "check.js",
+  "license": "MIT",
+  "dependencies": {
+    "puppeteer": "^3.0.1"
+  }
+}
